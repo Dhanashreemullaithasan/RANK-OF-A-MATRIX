@@ -19,7 +19,7 @@ A= np.array([[3,2,5],[1,1,2],[3,3,6]])
 rank=np.linalg.matrix_rank(A)
 print(rank)
 ## Output:
-![GitHub Logo](.//image.png)
+![GitHub Logo](./image.png)
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
